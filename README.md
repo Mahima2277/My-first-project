@@ -1,1 +1,1 @@
-# My-first-project
+# Number Guessing Game using Python
